@@ -14,7 +14,7 @@ useStore();
 </script>
 
 <!-- 
-  Original von leantodo:
+  Original von geniusgym:
   
   import { defineComponent, onMounted } from 'vue';
   <script setup lang="ts">
